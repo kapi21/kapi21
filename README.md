@@ -4,8 +4,6 @@
 
 **Maker · Android head units · retro computing**
 
-`kapi21` · Badajoz
-
 <img src="assets/kapitostes.jpg" alt="Kapitostes" width="520" />
 
 </div>
