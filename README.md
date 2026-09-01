@@ -4,7 +4,7 @@
 
 **Maker · Android head units · retro computing**
 
-<img src="assets/kapitostes.jpg" alt="Kapitostes" width="520" />
+<img src="assets/kapitostes.jpg" alt="Kapitostes" width="320" />
 
 </div>
 
