@@ -42,10 +42,8 @@ now: OpenRadioFM · SINTAXIA
 
 ## Actividad
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kapi21&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapi21&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165" />
-</div>
+![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=kapi21&show_icons=true&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kapi21&layout=compact&theme=github_dark&hide_border=true)
 
 ## Contacto
 
