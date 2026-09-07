@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kapitostes
+# Jimmy80/Kapitostes
 
 **Maker · Android head units · retro computing**
 
@@ -11,7 +11,7 @@
 ## Sobre mí
 
 ```yaml
-name: Kapitostes
+name: Jimmy80/Kapitostes
 github: kapi21
 location: Badajoz, Spain
 focus: [radios Android, retrocomputing, herramientas pequeñas]
